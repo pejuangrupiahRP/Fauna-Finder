@@ -89,3 +89,7 @@ Akurasi Model: 83%
 Metode Evaluasi: Confusion Matrix, Precision, Recall, dan F1-Score
 
 Output: Label spesies satwa dengan confidence rate
+
+
+##Berikut DATASET
+https://drive.google.com/file/d/1HGYewlz-Wz2ZJI3pE6qV9B-aHchJ3dn2/view?usp=drive_link
